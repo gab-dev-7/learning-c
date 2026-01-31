@@ -50,6 +50,14 @@ Advanced C topics and memory management.
 - `for` loops
 - Dynamic memory allocation (`malloc`)
 
+### [4-projects/](./4-projects/)
+
+Networking and practical applications.
+
+- **4.1-sockets:** Basic TCP client and server communication.
+- **4.2-http_sockets:** Building a simple HTTP client and a web server that serves HTML.
+- **4.3-https_sockets:** Secure HTTPS client implementation using OpenSSL.
+
 ## How to use this repo
 
 You can compile any of the `.c` files using `gcc`:

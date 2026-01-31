@@ -1,4 +1,6 @@
 /* https_client.c */
+/* Compile with: gcc https_client.c -o bin/https_client -lssl -lcrypto */
+
 #include <arpa/inet.h>
 #include <netdb.h>
 #include <netinet/in.h>
