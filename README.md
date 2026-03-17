@@ -10,6 +10,8 @@ Most of the content in this repository follows the excellent YouTube tutorial se
 
 I have followed along with his lessons and made minor modifications to the code to better suit my learning process.
 
+Some projects were also taken from Eduonix Learning Solutions' [YouTube channel](https://www.youtube.com/watch?v=LtXEMwSG5-8&pp=2AaZEQ%3D%3D)
+
 ## Repository Structure
 
 The projects are organized by difficulty level:
